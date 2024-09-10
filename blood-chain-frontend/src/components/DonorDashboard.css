@@ -1,0 +1,56 @@
+/* DonorDashboard.css */
+.dashboard-container {
+    padding: 20px;
+}
+
+.dashboard-container h1 {
+    color: #ff0000;
+    text-align: center;
+}
+
+.dashboard-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.dashboard-container th,
+.dashboard-container td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+.dashboard-container th {
+    background-color: #ff0000;
+    color: white;
+}
+
+.dashboard-container td {
+    background-color: #f2f2f2;
+}
+
+.dashboard-container {
+    padding: 20px;
+}
+
+.donation-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.donation-list li {
+    background-color: #f4f4f4;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.dashboard-container {
+    padding: 20px;
+}
+
+.donation-item {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+}

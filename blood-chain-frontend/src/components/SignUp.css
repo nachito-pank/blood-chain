@@ -1,0 +1,32 @@
+input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+form input {
+    background-color: hotpink;
+    text-align: center;
+    position: center;
+    font-size: 22px;
+}
+
+label {
+    color: rgb(11, 20, 1);
+    font-family: algerian;
+}
+
+.signup-form {
+    margin-left: 400px;
+    text-align: left;
+    width: 30%;
+    background: linear-gradient(white, red, white, red, white);
+}
